@@ -1,0 +1,2 @@
+Developing the Event Discovery Feed feature.
+Sorting upcoming campus events by date.
